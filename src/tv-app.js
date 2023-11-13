@@ -64,6 +64,14 @@ export class TvApp extends LitElement {
       ${this.activeItem.name}
       ${this.activeItem.description}
         <!-- video -->
+        <div>
+        <iframe
+          width="640"
+          height="360"
+          src="https://www.youtube.com/embed/68h8-ESTY6o"
+          frameborder="0"
+          allowfullscreen
+        ></iframe>
         <!-- discord / chat - optional -->
       </div>
       <!-- dialog -->
