@@ -15,6 +15,7 @@
     "start": "web-dev-server"
   },
   "dependencies": {
+    "@lrnwebcomponents/video-player": "^7.0.18",
     "lit": "3.0.1",
     "@shoelace-style/shoelace": "2.11.2"
   },
